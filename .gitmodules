@@ -1,0 +1,15 @@
+[submodule "franklin-cli"]
+	path = franklin-cli
+	url = git@github.com:munch-group/franklin-cli.git
+[submodule "franklin-educator"]
+	path = franklin-educator
+	url = git@github.com:munch-group/franklin-educator.git
+[submodule "franklin-admin"]
+	path = franklin-admin
+	url = git@github.com:munch-group/franklin-admin.git
+[submodule "franklin-container"]
+	path = franklin-container
+	url = git@github.com:munch-group/franklin-container.git
+[submodule "franklin-magic"]
+	path = franklin-magic
+	url = git@github.com:munch-group/franklin-magic.git
